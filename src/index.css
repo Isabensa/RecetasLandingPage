@@ -1,2 +1,16 @@
 @import "tailwindcss";
 
+@import "tailwindcss";
+
+/* Paleta personalizada */
+:root {
+  --color-fondo: #fdfaf7;
+  --color-acento: #cfa18d;
+  --color-texto: #4a2c2a;
+  --color-footer: #8b5e3c;
+}
+
+/* Fuente global */
+html {
+  font-family: 'Poppins', sans-serif;
+}
